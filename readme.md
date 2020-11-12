@@ -103,6 +103,6 @@ You can access the application at http://127.0.0.1:8000/
 <a href="#">
     <img src="screenshots/edit.png" alt="ss" width="400" height="200">
 </a>
-<a href="#">
+<a href="/screenshots/new.png">
     <img src="screenshots/new.png" alt="ss" width="400" height="200">
 </a>
