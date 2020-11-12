@@ -80,7 +80,7 @@ You can access the application at http://127.0.0.1:8000/
 
 
 ## Developer 
-| ![image](https://avatars3.githubusercontent.com/u/41014321?s=128&v=4) |
+| [![image](https://avatars3.githubusercontent.com/u/41014321?s=128&v=4)](https://smithgajjar.me) |
 |:-:|
 | [![LinkedIn](https://icons.iconarchive.com/icons/danleech/simple/32/linkedin-icon.png)](https://www.linkedin.com/in/smith-gajjar-5a27716b/) [![Portfolio](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/32/Browser-icon.png)](https://smithgajjar.me) |
 ## Screenshots
