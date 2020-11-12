@@ -1,4 +1,14 @@
-# Assignment
+# BLog React-Laravel Application
+
+Table of Contents 
+ - [Assignment](#assignment)
+ - [Tech Stack](#techstack)
+ - [Platforms](#platforms)
+ - [Development](#development)
+ - [Developer](#development)
+ - [Screenshots](#Screenshots)
+
+## Assignment
 To develop the below features by using React.js, Laravel, MySOL and deploy it on a server (preferable AWS).
 
 **Live Url :**  https://referroute.herokuapp.com/
@@ -26,17 +36,17 @@ To develop the below features by using React.js, Laravel, MySOL and deploy it on
  - [x] Image Upload for Post
  - [x] Pagination for Posts
 
-### Tech Stack 
+## TechStack 
  - Laravel 
  - React 
  - Redux
  - MySQL
 
-### Platforms Used
+## Platforms
 - [Heroku](https://www.heroku.com/) (For Hosting)
 - [db4free.net](https://db4free.net/) (For MYSQL host)
 
-### Run Project Locally 
+## Development
 Clone the repository. Do the following steps to get it up and running:
 1. Set your db configuration in .env
 2. `composer install`
@@ -49,7 +59,7 @@ You can access the application at http://127.0.0.1:8000/
 
 ***For react production build** - execute `npm run prod`
 
-### Laravel API Documentation  
+## API  
 
 (\*) represents routes which requires authorization header as - Bearer <API TOKEN>
 
@@ -69,19 +79,11 @@ You can access the application at http://127.0.0.1:8000/
  | *api/posts/:id | DELETE | Delete post by id. |
 
 
-
-### Blogs / Documentations Refered During Development
-
-- https://www.flowkl.com/tutorial/web-development/simple-blog-application-in-laravel-7/
-- https://redux.js.org/introduction/getting-started
-- https://dev.to/lvtdeveloper/using-react-in-a-laravel-application-8fp
-- https://laravel.com/docs/8.x/pagination
-- https://laravel.com/docs/8.x
-- https://ckeditor.com/docs/ckeditor5/latest/builds/
-- https://kevinwkds.medium.com/laravel-deployment-in-aws-ec2-aee3ded6248f *(For AWS Hosting)
-
-
-### Screenshots
+## Developer 
+| ![image](https://avatars3.githubusercontent.com/u/41014321?s=128&v=4) |
+|:-:|
+| [![LinkedIn](https://icons.iconarchive.com/icons/danleech/simple/32/linkedin-icon.png)](https://www.linkedin.com/in/smith-gajjar-5a27716b/) [![Portfolio](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/32/Browser-icon.png)](https://smithgajjar.me) |
+## Screenshots
 
 <a href="#">
     <img src="screenshots/login.png" alt="ss" width="200" height="200">
