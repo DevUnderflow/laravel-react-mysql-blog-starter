@@ -1,6 +1,6 @@
 # BLog React-Laravel Application
 
-Table of Contents 
+**Table of Contents** 
  - [Assignment](#assignment)
  - [Tech Stack](#techstack)
  - [Platforms](#platforms)
