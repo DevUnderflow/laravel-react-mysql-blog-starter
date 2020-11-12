@@ -85,22 +85,22 @@ You can access the application at http://127.0.0.1:8000/
 | [![LinkedIn](https://icons.iconarchive.com/icons/danleech/simple/32/linkedin-icon.png)](https://www.linkedin.com/in/smith-gajjar-5a27716b/) [![Portfolio](https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/32/Browser-icon.png)](https://smithgajjar.me) |
 ## Screenshots
 
-<a href="#">
+<a href="/screenshots/login.png">
     <img src="screenshots/login.png" alt="ss" width="200" height="200">
 </a>
-<a href="#">
+<a href="/screenshots/register.png">
     <img src="screenshots/register.png" alt="ss" width="200" height="200">
 </a>
-<a href="#">
+<a href="/screenshots/feed.png">
     <img src="screenshots/feed.png" alt="ss" width="400" height="200">
 </a>
-<a href="#">
+<a href="/screenshots/view.png">
     <img src="screenshots/view.png" alt="ss" width="400" height="200">
 </a>
-<a href="#">
+<a href="/screenshots/profile.png">
     <img src="screenshots/profile.png" alt="ss" width="400" height="200">
 </a>
-<a href="#">
+<a href="/screenshots/edit.png">
     <img src="screenshots/edit.png" alt="ss" width="400" height="200">
 </a>
 <a href="/screenshots/new.png">
