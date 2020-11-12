@@ -1,0 +1,42 @@
+.comments-controls-bar {
+    display: none;
+    margin-top: 5px;
+}
+
+.comment-row .comment-content:hover .comments-controls-bar {
+    display: block;
+}
+
+.comments-controls-bar a {
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.comments-controls-bar a.approve-comment {
+    color: #151b26;
+}
+
+.comments-controls-bar a.unapprove-comment {
+    color: #d98500;
+}
+
+.comments-controls-bar a.trash-comment {
+    color: red;
+}
+
+.edit-form {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.edit-form textarea {
+    margin-bottom: 8px;
+}
+
+.edit-form textarea.has-error {
+    border-color: red;
+}
+
+.edit-form div.has-error {
+    color: red;
+}
